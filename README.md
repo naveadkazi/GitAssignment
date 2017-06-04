@@ -7,5 +7,5 @@
 5. Set up kdiff3 as the default mergetool
 6. In the same branch edit "About Me.txt" change the 1st line to anything you want and commit it.
 7. Create a new branch from master and delete the first line in "About Me.txt" and commit it
-8. Merge the your 1st branch into master and then second branch into master. Resolve any conflict and check master.
-9. Revert the your changes in "About Me.txt" to as it was before.
+8. Merge the your 1st branch into master and then second branch into master. Resolve any conflict and check master for your changes.
+9. Revert your changes in "About Me.txt" to as it was before.
